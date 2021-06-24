@@ -38,6 +38,8 @@ A single line of four space-separated integers denoting the respective values of
 ### Explanation
 The two kangaroos jump through the following sequence of locations:
 <img src="../Img/numberLineJumps1.png" width="600">
+
 From the image, It is clear that the kangaroos meet at the same location (number 12 on the number line) after same number of jumps (4 jumps ), and we return YES.
 
 ## Answer
+[numberLineJumps](https://github.com/AbhilashTUofficial/Problem-Solving/blob/master/NumberLineJumps/ANSWER/numberLineJumps.py)
