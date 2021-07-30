@@ -11,9 +11,13 @@ A Collection of possible interview questions and my own answers.
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Problem-Solving?label=Repo%20Size%3A&style=for-the-badge)
 
 ### Questions
-1. Apple And Orange
-2. Grading Students
-
+1. [Apple And Orange](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/AppleAndOrange)
+2. [Grading Students](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/BetweenTwoSets)
+3. [Bill Division](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/BillDivision)
+4. [Breaking The Records](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/BreakingTheRecords)
+5. [Divisible Sum Pairs](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/DivisibleSumPairs)
+6. [Grading Students](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/Grading-Students)
+7. [Number Line Jumps](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/NumberLineJumps)
 
 ### Directory Structure :
     |
