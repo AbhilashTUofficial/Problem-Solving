@@ -43,4 +43,4 @@ Only two days, 20 and 22, in this interval are beautiful. Thus, we print 2 as ou
 
 ## Answer:
 
-[luckyDays](https://github.com/AbhilashTUofficial/Problem-Solving/blob/master/Grading-Students/ANSWER/luckyDays.py)
+[luckyDays](https://github.com/AbhilashTUofficial/Problem-Solving/blob/master/LuckyDays/ANSWER/luckyDays.py)
