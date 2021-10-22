@@ -16,7 +16,7 @@ A Collection of possible interview questions and my own answers.
 3. [Bill Division](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/BillDivision)
 4. [Breaking The Records](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/BreakingTheRecords)
 5. [Divisible Sum Pairs](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/DivisibleSumPairs)
-6. [Grading Students](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/Grading-Students)
+6. [Grading Students](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/GradingStudents)
 7. [Number Line Jumps](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/NumberLineJumps)
 8. [Designer Pdf Viewer](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/DesignerPdfViewr)
 9. [The Hurdle Race](https://github.com/AbhilashTUofficial/Problem-Solving/tree/master/TheHurdleRace)

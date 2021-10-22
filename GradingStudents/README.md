@@ -60,4 +60,4 @@ Each line `i` of the `n` subsequent lines contains a single integer, `grades[i]`
 
 ## Answer:
 
-[Grading Students](https://github.com/AbhilashTUofficial/Problem-Solving/blob/master/Grading-Students/ANSWER/gradingStudents.py)
+[Grading Students](https://github.com/AbhilashTUofficial/Problem-Solving/blob/master/GradingStudents/ANSWER/gradingStudents.py)
