@@ -1,10 +1,5 @@
 #!/bin/python3
-
-import math
 import os
-import random
-import re
-import sys
 
 #
 # Complete the 'compareTriplets' function below.
@@ -18,9 +13,8 @@ import sys
 def compareTriplets(a, b):
     score=[0,0]
     for i in range(3):
-        if(a[i]!=b[i]):  
-            if(a[i]>b[i]):score[0]+=1
-            elif(a[i]<b[i]):score[1]+=1
+        if(a[i]>b[i]):score[0]+=1
+        elif(a[i]<b[i]):score[1]+=1
     return score
 
 if __name__ == '__main__':

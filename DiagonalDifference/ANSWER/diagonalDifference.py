@@ -14,18 +14,12 @@ import sys
 #
 
 def diagonalDifference(arr):
-    pivotA=0
-    pivotB=2
-    a=0
-    b=0
+    pDiag=0
+    nDiag=0
     for i in range(len(arr)):
-        a+=arr[i][pivotA]
-        pivotA+=1
-        b+=arr[i][pivotB]
-        pivotB-=1
-
-        
-    return abs(a-b)
+        pDiag+=arr[i][i]
+        nDiag+=arr[i][len(arr)-i-1]
+    return abs(pDiag-nDiag)
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
