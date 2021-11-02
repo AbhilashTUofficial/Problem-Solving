@@ -17,6 +17,7 @@ def birthdayCakeCandles(candles):
     candles=sorted(candles)
     
     return candles.count(candles[-1])
+    # return candles.count(max(candles))
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
